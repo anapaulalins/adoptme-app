@@ -42,11 +42,21 @@ Completed  ❤️ ✅
   &nbsp;&nbsp;&nbsp&nbsp
   
   
-  
-  
 </p>
 
+# 📌  Technologies
 
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Nodejs](https://nodejs.org/en/)
+- [Postgresql](hhttps://www.postgresql.org/)
+
+# 👩‍💻 Author
+
+[Ana Paula Lins](https://github.com/anapaulalins) 🚀
+<br/> 
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ana-lins-a769161b4/)
 
 
 
