@@ -10,8 +10,7 @@
 
 
 # 📌 About
-
-...
+Adopt Me é um aplicativo para adoção de animais,onde o usuário pode encontrar seu amiguinho pet que tanto deseja, quanto fazer a postagem de pets  que precisam de um lar.
 
 # 📌 Status
 
